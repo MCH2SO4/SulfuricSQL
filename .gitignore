@@ -1,0 +1,18 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+publish/
+
+# Local credentials, private keys, database files, and disposable MySQL fixtures
+*.pem
+*.key
+*.pfx
+*.p12
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+mysql-fixture/
